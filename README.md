@@ -2,6 +2,8 @@
 
 A graphical user interface application for serial port communication built with Rust and eframe.
 
+![Alt text](https://example.com/path/to/image.png)
+
 ## Requirements
 
 - Rust 1.70.0 or newer
