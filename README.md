@@ -2,7 +2,7 @@
 
 A graphical user interface application for serial port communication built with Rust and eframe.
 
-![Alt text](https://example.com/path/to/image.png)
+![Alt text]([https://example.com/path/to/image.png](https://github.com/Amin98Hosseini/SerialProject/blob/main/AppImg.png))
 
 ## Requirements
 
