@@ -1,0 +1,19 @@
+[package]
+name = "SerialProject"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.31.1"
+serialport = "4.7.2"
+
+[build-dependencies]
+winres = "0.1"
+
+[profile.release]
+opt-level = "z"
+lto = true
+
+# Remove this section as it won't work directly
+# [package.metadata.winres]
+# windows_subsystem = "windows"
